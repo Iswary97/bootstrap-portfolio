@@ -1,0 +1,28 @@
+.card
+{
+    border: 5px; 
+    border-style: solid;
+    color: palevioletred;
+    margin: 200px;
+    padding: 2px;
+    height: auto;
+
+}
+.card-title
+{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: blueviolet; 
+} 
+
+/* .java:nth-child(even) 
+{
+    flex-direction: row-reverse;
+} */
+
+.d-block
+{
+    height: 750px;
+    width: 1500px;
+}
